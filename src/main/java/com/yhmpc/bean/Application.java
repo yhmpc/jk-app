@@ -1,7 +1,7 @@
 package com.yhmpc.bean;
 
 public class Application {
-    private String name = "Jenkins APP";
+    private String name = "Jenkins APP ...";
 
     public String getName() {
         return name;
