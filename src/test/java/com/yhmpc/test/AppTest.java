@@ -6,6 +6,6 @@ public class AppTest {
 
     @Test
     public void mytest(){
-        System.out.println("This is JUnit4 Test...");
+        System.out.println("This is JUnit 4.12 Test...");
     }
 }
